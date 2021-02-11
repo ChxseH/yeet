@@ -1,5 +1,5 @@
 yeet:
-  run: once # once or "at 1:00 am" (example).
+  run: once # once or "at 1:00 am" (for example).
 discord:
   tokens:
     - "YOUR TOKEN GOES HERE"
