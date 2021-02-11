@@ -24,9 +24,12 @@ Node.js Discord Message Nuker
 - Select the Network Tab
 - Click on "XHR"
 - Type `api/v` on the filter box.
-- Click on any request, then click on `Headers`, you're looking for something like: `mfa.I_yJwSaP[.......]`
-[Here's an image with steps if this is confusing](https://i.imgur.com/q2esGXI.png)
-**DO NOT SHARE YOUR authToken!**
+- Click on any request, then click on `Headers`, you're looking for something like: `mfa.I_yJwSaP[.......]`  
+
+[Here's an image with steps if this is confusing](https://i.imgur.com/q2esGXI.png)  
+
+**DO NOT SHARE YOUR authToken!**  
+
 *Sharing your authToken on the internet will give full access to your account! If you post your token by accident, LOGOUT from discord on that same browser you got that token imediately. Change your password and turn on 2FA right after.*
 
 ## Usage
