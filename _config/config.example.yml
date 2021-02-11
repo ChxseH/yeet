@@ -1,0 +1,13 @@
+yeet:
+  run: once # once or "at 1:00 am" (example).
+discord:
+  tokens:
+    - "YOUR TOKEN GOES HERE"
+purge:
+  enabled: true
+  keep_days: 1 # keep this amount of days, setting to 0 will nuke **everything**.
+ignore: # Optional
+  servers:
+    - "SERVER ID" # Setting a server ID here will tell yeet to skip deleting it.
+  users:
+    - "USER ID" # Same but for DMs.
